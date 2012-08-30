@@ -1,0 +1,80 @@
+DON'T FORGET TO SHOUT THE NAMES
+
+* Elnode and the history of Lisp
+** A story with fewer beards than you might think
+** With some jumping around
+* this guy invents a language
+** John McCarthy [[file:./jmcbw.jpg]]
+** it's 1958 for God's sake
+* it's so exciting and powerful                                 :add_to_list:
+** Richard Greenblatt [[file:./2-4.Greenblatt-Richard_Knight.1978.L02645385.MIT.lg.jpg]]
+** [[./chat.el::35]]
+* they decide to build a computer around it
+** the Knight machine [[file:./453px-LISP_machine.jpg]]
+* this guy hates having his life ruined by the business
+** Richard Stallman [[file:./stallman-1.jpg]]
+* meanwhile these guys invent UNIX
+** Ken Thompson and Dennis Ritchie [[file:./Ken_n_dennis.jpg]]
+* UNIX runs on cheap commodity hardware 
+** Ken and Dennis at a PDP-11 [[file:./unix-machine.jpg]]
+* this guy and a bunch of other guys standardize Lisp            :loop_macro:
+** Richard Gabriel [[file:./rpg.jpg]]
+** [[~/chat.el::40]]
+* this guy uses CommonLisp to make the first web shop and get rich
+** Paul Graham [[file:./paul.graham.jpg]]
+* this guy is so upset by what's happened to hackers he starts the GNU project
+** Richard Stallman [[file:./stallman-4.jpg]]
+* Stallman hopes to use Emacs from this guy
+** James Gosling [[file:./james-gosling.jpg]]
+*** but Gosling first agrees and then sells the code to someone else
+*** Stallman is forced to write a Lisp version
+* Symbolics sells loads of Lisp Machines to Government and Big Business
+** Symbolics Lisp Machine [[file:./303px-Symbolics3640_Modified.JPG]]
+* Genera, the most advanced operating environment ever 
+** genera restore screen [[file:./restore-distribution.gif]]
+* but soon this guy and his college chums
+** Scott McNealy [[file:./mcnealy.jpg]]
+* make this "worse" better than Lisp Machines
+** Sun Workstation open [[file:./746px-Sun100U_Cardcage.jpg]]
+* one of the Lisp Machine companies survives to employ this guy
+** Jamie Zawinski [[file:./jamie.jpg]]
+* who goes on to make this
+** Netscape Navigator [[file:Netscape_3_.png][file:~/work/elnode-talk/Netscape_3_.png]]
+* which implements a riff on ideas in Lisp by this guy :chat_main_templater:
+** [[file:./chat.el::45]]
+** Sir Tim Berners Lee [[file:./400px-Tim_Berners-Lee_closeup.jpg]]
+* and includes a language which was changed from Lisp in a weekend by this guy
+** Brendan Eich [[file:./BEich.jpg]]
+*** this is gosling shitting on lisp AGAIN
+*** his language has such hype they have to call the new language "javascript"
+* meanwhile this guy has built a movement around GNU
+** Richard Stallman [[file:./stallman-5.jpg]]
+* this guy has made a kernel for it
+** Linus Torvalds [[file:./torvalds_linus.jpg]]
+* no one uses Lisp anymore but they do use Emacs
+** Mark Zuckerberg [[file:./mark_zuckerberg.jpg]]
+* meanwhile this guy users EmacsLisp as inspiration for Ruby
+** Yukihiro Matsumoto [[file:./matz.jpg]]
+* Ruby becomes crazy popular because of this guy's Rails web thing 
+** DHH [[file:./heinemeier.jpg]]
+* and this guy's insistance that it be easy for people :elnode_hello_world:
+** _why? [[file:./why.jpg]]
+* the web has lots of scaling problems, this guy thinks Lisp is the answer
+** Rich Hickey [[file:./richhickey.jpg]]
+* this guy finally steps down as Emacs maintainer           :elnode_packaged:
+** Richard Stallman [[file:./stallman-6.jpg]]
+* Lisp starts getting popular again, as if the old guard are compost
+** John McCarthy [[file:./jmcbw.jpg]]
+* this guy invents an xml beater based on a language based on lisp :chat_send_handler:
+** Doug Crockford [[file:./crockford.png]]
+** [[file:~/work/elnode-auth/examples/chat.el:27]]
+* some guy gets a Gazillion $ on KickStarter for pitching Emacs
+** Light Table [[file:./lighttabletable.png]]
+*** no one notices
+* relatedly this guy invents a new way of doing web, exploiting latency
+** Ryan Dahl [[file:./dahl.jpg]]
+* finally this guy makes EmacsLisp do the same thing node.js does :chat_comet_handler:
+** Nic Ferrier [[file:./nicferrier.jpg]]
+** [[~/work/elnode-auth/examples/chat.el::31]]
+* Emacs achieves hipster nirvana
+** Hipster [[file:./hipster.jpg]]
