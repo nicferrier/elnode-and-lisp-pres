@@ -1,0 +1,3 @@
+a simple presentation Nic did on Elnode and the history of Lisp.
+
+This was for an internal ThoughtWorks audience, in August 2012.
